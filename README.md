@@ -15,10 +15,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 ### 🧑‍💻 About Me
 
 - 🎯 **Frontend Engineer → Full Stack Developer** with **3.5+ years** building scalable web apps
@@ -31,12 +27,6 @@
 - 💬 Ask me about **React, Next.js, Redux & MERN**
 - ⚡ Fun fact: I migrated a full website from Wix to React in just two months!
 
-</td>
-<td width="38%" align="center" valign="top">
-  <img src="./vishal.jpg" width="230" alt="Vishal Rupak" style="border-radius:16px"/>
-</td>
-</tr>
-</table>
 
 ---
 
